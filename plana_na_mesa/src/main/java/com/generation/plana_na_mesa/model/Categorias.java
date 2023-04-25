@@ -1,17 +1,15 @@
 package com.generation.plana_na_mesa.model;
 
-import java.sql.Date;
-import java.time.LocalDateTime;
+import java.util.List;
 
-import org.hibernate.annotations.UpdateTimestamp;
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
+import jakarta.persistence.CascadeType;
 import jakarta.persistence.Entity;
 import jakarta.persistence.FetchType;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
-import jakarta.persistence.JoinColumn;
-import jakarta.persistence.ManyToOne;
 import jakarta.persistence.OneToMany;
 import jakarta.persistence.Table;
 import jakarta.validation.constraints.NotBlank;
@@ -31,7 +29,12 @@ public class Categorias {
 	@NotBlank(message = "Esse é um campo obrigatório!")
 	@Size(min = 5, max = 255, message = "Limite de caracteres 255")
 	private String nome;
-
+	
+	@OneToMany(fetch = FetchType.LAZY, mappedBy = "categorias" , cascade = CascadeType.REMOVE)
+	@JsonIgnoreProperties("categorias")
+	
+	private List<Produto> produto;
+	
 	public Long getId() {
 		return id;
 	}
@@ -54,6 +57,14 @@ public class Categorias {
 
 	public void setNome(String nome) {
 		this.nome = nome;
+	}
+
+	public List<Produto> getProduto() {
+		return produto;
+	}
+
+	public void setProduto(List<Produto> produto) {
+		this.produto = produto;
 	}
 
 }
