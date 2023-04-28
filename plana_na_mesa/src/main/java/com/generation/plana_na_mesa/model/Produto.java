@@ -11,7 +11,6 @@ import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.ManyToOne;
 import jakarta.persistence.Table;
-import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Size;
 
 @Entity
@@ -22,13 +21,13 @@ public class Produto {
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Long id;
 
-	@NotBlank(message = "O campo é Obrigatório!")
+	// @NotBlank(message = "O campo é Obrigatório!")
 	@Size(min = 1, max = 50, message = "O atributo Titulo deve conter no mínimo 05 e no máximo 50 caracteres")
 	private String nome;
 
 	private Date validade;
 
-	@NotBlank(message = "O atributo Descriçao é Obrigatório!")
+	// @NotBlank(message = "O atributo Descriçao é Obrigatório!")
 	@Size(min = 1, max = 2000, message = "O atributo descrição deve conter no mínimo 10 e no máximo 1000 caracteres")
 	private String descricao;
 
@@ -44,6 +43,10 @@ public class Produto {
 	@ManyToOne
 	@JsonIgnoreProperties("produto")
 	private Categorias categorias;
+
+	@ManyToOne
+	@JsonIgnoreProperties("produto")
+	private Usuario usuario;
 
 	public Long getId() {
 		return id;
@@ -93,7 +96,6 @@ public class Produto {
 		this.kit = kit;
 	}
 
-
 	public BigDecimal getValor() {
 		return valor;
 	}
@@ -107,7 +109,15 @@ public class Produto {
 	}
 
 	public void setCategorias(Categorias categorias) {
-		this.categorias = categorias;
 	}
+
+	public Usuario getUsuario() {
+		return usuario;
+	}
+
+	public void setUsuario(Usuario usuario) {
+		this.usuario = usuario;
+	}
+	
 
 }

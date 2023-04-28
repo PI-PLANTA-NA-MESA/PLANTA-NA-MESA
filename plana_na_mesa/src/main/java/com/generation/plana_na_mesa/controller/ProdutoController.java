@@ -14,9 +14,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
-import org.springframework.web.server.ResponseStatusException;
 
 import com.generation.plana_na_mesa.model.Produto;
 import com.generation.plana_na_mesa.repository.ProdutoRepository;
@@ -60,15 +58,16 @@ import jakarta.validation.Valid;
 					.orElse(ResponseEntity.status(HttpStatus.NOT_FOUND).build());
 		}
 
-		@ResponseStatus(HttpStatus.NO_CONTENT)
+		//@ResponseStatus(HttpStatus.NO_CONTENT)
 		@DeleteMapping("/{id}")
-		public void delete(@PathVariable Long id) {
+		public ResponseEntity<?> delete(@PathVariable Long id) {
 			Optional<Produto> produto = produtoRepository.findById(id);
 
 			if (produto.isEmpty())
-				throw new ResponseStatusException(HttpStatus.NOT_FOUND);
+				return ResponseEntity.status(HttpStatus.NOT_FOUND).body("id não encontrado");
 
 			produtoRepository.deleteById(id);
+			return ResponseEntity.noContent().build();
 		}
 
 	}
