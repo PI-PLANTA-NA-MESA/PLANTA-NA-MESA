@@ -1,4 +1,4 @@
-package com.generation.plana_na_mesa.model;
+package com.generation.planta_na_mesa.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

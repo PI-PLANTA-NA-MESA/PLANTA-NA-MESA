@@ -1,4 +1,4 @@
-package com.generation.plana_na_mesa.service;
+package com.generation.planta_na_mesa.service;
 
 import java.util.Optional;
 
@@ -11,10 +11,10 @@ import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;
 import org.springframework.web.server.ResponseStatusException;
 
-import com.generation.plana_na_mesa.model.Usuario;
-import com.generation.plana_na_mesa.model.UsuarioLogin;
-import com.generation.plana_na_mesa.repository.UsuarioRepository;
-import com.generation.plana_na_mesa.security.JwtService;
+import com.generation.planta_na_mesa.model.Usuario;
+import com.generation.planta_na_mesa.model.UsuarioLogin;
+import com.generation.planta_na_mesa.repository.UsuarioRepository;
+import com.generation.planta_na_mesa.security.JwtService;
 
 @Service
 public class UsuarioService {
