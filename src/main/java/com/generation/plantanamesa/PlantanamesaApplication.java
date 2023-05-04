@@ -1,13 +1,13 @@
-package com.generation.plana_na_mesa;
+package com.generation.plantanamesa;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PlanaNaMesaApplication {
+public class PlantanamesaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PlanaNaMesaApplication.class, args);
+		SpringApplication.run(PlantanamesaApplication.class, args);
 	}
 
 }
