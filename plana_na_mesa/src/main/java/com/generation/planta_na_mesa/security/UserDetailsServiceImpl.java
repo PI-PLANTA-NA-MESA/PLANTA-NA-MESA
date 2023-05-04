@@ -1,4 +1,4 @@
-package com.generation.plana_na_mesa.security;
+package com.generation.planta_na_mesa.security;
 
 import java.util.Optional;
 
@@ -10,8 +10,8 @@ import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Service;
 import org.springframework.web.server.ResponseStatusException;
 
-import com.generation.plana_na_mesa.model.Usuario;
-import com.generation.plana_na_mesa.repository.UsuarioRepository;
+import com.generation.planta_na_mesa.model.Usuario;
+import com.generation.planta_na_mesa.repository.UsuarioRepository;
 
 @Service
 public class UserDetailsServiceImpl implements UserDetailsService {

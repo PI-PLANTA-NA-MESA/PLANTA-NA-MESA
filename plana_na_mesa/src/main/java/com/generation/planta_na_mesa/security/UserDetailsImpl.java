@@ -1,4 +1,4 @@
-package com.generation.plana_na_mesa.security;
+package com.generation.planta_na_mesa.security;
 
 import java.util.Collection;
 import java.util.List;
@@ -6,7 +6,7 @@ import java.util.List;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
 
-import com.generation.plana_na_mesa.model.Usuario;
+import com.generation.planta_na_mesa.model.Usuario;
 
 public class UserDetailsImpl implements UserDetails {
 

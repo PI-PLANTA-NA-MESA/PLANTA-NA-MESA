@@ -1,4 +1,4 @@
-package com.generation.plana_na_mesa.controller;
+package com.generation.planta_na_mesa.controller;
 
 import java.util.List;
 import java.util.Optional;
@@ -15,10 +15,10 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.generation.plana_na_mesa.model.Usuario;
-import com.generation.plana_na_mesa.model.UsuarioLogin;
-import com.generation.plana_na_mesa.repository.UsuarioRepository;
-import com.generation.plana_na_mesa.service.UsuarioService;
+import com.generation.planta_na_mesa.model.Usuario;
+import com.generation.planta_na_mesa.model.UsuarioLogin;
+import com.generation.planta_na_mesa.repository.UsuarioRepository;
+import com.generation.planta_na_mesa.service.UsuarioService;
 
 import jakarta.validation.Valid;
 

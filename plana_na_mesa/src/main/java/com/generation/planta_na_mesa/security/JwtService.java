@@ -1,4 +1,4 @@
-package com.generation.plana_na_mesa.security;
+package com.generation.planta_na_mesa.security;
 
 import java.security.Key;
 import java.util.Date;
