@@ -26,9 +26,6 @@
 
 <h2 align="center">Tecnologias Utilizadas</h2>
 
-###
-
-<p align="left">Hello World!!</p>
 
 ###
 
