@@ -6,7 +6,7 @@
 <br clear="both">
 
 <p align="left"> 
-  🌱 O Planta na Mesa é um e-commerce que valoriza a economia das comunidades carentes, oferecendo alimentos naturais cultivados por elas. Nosso foco são plantas diversificadas que promovem uma alimentação mais saudável e disseminam a cultura da fauna brasileira.
+  🌱 O Planta na Mesa é um e-commerce que valoriza a economia das comunidades carentes, estimula uma agricultura sustentável oferecendo alimentos naturais cultivados por elas. Nosso foco são plantas diversificadas que promovem uma alimentação mais saudável e disseminam a cultura da flora brasileira.
   </p>
 
 ###
@@ -15,7 +15,7 @@
 
 ###
 
-<p align="center">No Brasil 90% da alimentação é baseada em apenas 20 espécies, e existe um grupo de alimentos não convencionais conhecidos como PANCs. Assim, criamos um e-commerce que conectaria pequenas comunidades produtoras de PANCs ao resto da população, gerando renda, diversificando alimentos e estimulando a agricultura sustentável, conforme ODS 2 da ONU.</p>
+<p align="center">No Brasil 90% da alimentação é baseada em apenas 20 espécies, e existe um grupo de alimentos não convencionais conhecidos como PANCs. Assim, criamos um e-commerce que conectaria pequenas comunidades produtoras de PANCs ao resto da população, gerando renda, diversificando alimentos e estimulando a agricultura sustentável.
 
 ###
 
@@ -42,8 +42,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" width="52" alt="angularjs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
 </div>
+<br>
 
-###
 
 <h2 align="center">Escopo do projeto</h2>
 
@@ -65,7 +65,7 @@
 
 ###
 
-<p align="center">Iremos trabalhar com a ODS 2, especificamente com o tópico 2.3, porém gerando consequências no tópico 2.1 e 10.2</p>
+<p align="center">Iremos trabalhar com a ODS 2 - Fome Zero e Agricultura Sustentável, especificamente com o tópico 2.3 -  Até 2030, dobrar a produtividade agrícola e a renda dos pequenos produtores de alimentos, particularmente das mulheres, povos indígenas, agricultores familiares, pastores e pescadores, inclusive por meio de acesso seguro e igual à terra, outros recursos produtivos e insumos, conhecimento, serviços financeiros, mercados e oportunidades de agregação de valor e de emprego não agrícola; porém gerando consequências no tópico 2.1 e 10.2 </p>
 
 ###
 
@@ -77,7 +77,7 @@
 
 ###
 
-<p align="center">Muitos pequenos produtores e pequenas comunidades sofrem com a falta de renda e com a desvalorização de sua cultura, além disso a agricultura do país é baseada na produção de poucas espécies. Os impactos dessa realidade é a falta de conhecimento sobre as espécies que podem ser utilizadas para nossa alimentação com o consequente empobrecimento da alimentação da população.</p>
+<p align="center">Muitos pequenos produtores e pequenas comunidades sofrem com a falta de renda e com a desvalorização de sua cultura, além disso a agricultura do país é baseada na produção de poucas espécies. Os impactos dessa realidade são a falta de conhecimento sobre as espécies que podem ser utilizadas para nossa alimentação com o consequente empobrecimento da alimentação da população.</p>
 
 ###
 
@@ -89,7 +89,7 @@
 
 ###
 
-<p align="center">Nós escolhemos seguir com a criação de um E-Commerce que exponha kits de PANCs (Plantas Comestíveis Não Convencionais) e ervas medicinais produzida por pequenos produtores e comunidades indígenas, quilombolas, etc.</p>
+<p align="center">Nós escolhemos seguir com a criação de um E-Commerce que exponha PANCs (Plantas Comestíveis Não Convencionais) e ervas medicinais produzidas por pequenos produtores e comunidades indígenas, quilombolas, etc.</p>
 
 ###
 
@@ -101,7 +101,7 @@
 
 ###
 
-<p align="center">Escolhemos esse modelo para conseguir promover e ajudar produtores autônomos de agricultura e conhecimento sobre as plantas.</p>
+<p align="center">Escolhemos esse modelo para conseguir promover e ajudar produtores autônomos de agricultura e conhecimento sobre as PANCs.</p>
 
 ###
 
@@ -113,15 +113,15 @@
 
 ###
 
-<p align="center">Nosso e-commerce fará a ponte entre produtores de alimentos e os consumidores, expondo kits de PANCs(Plantas Alimentícias não Convencionais) e outros alimentos e ervas. Estimulando o consumo das PANCs e tornando sua produção uma fonte de renda para comunidades e pequenos produtores.</p>
+<p align="center">Nosso e-commerce fará a ponte entre produtores de alimentos e os consumidores, expondo kits de PANCs(Plantas Alimentícias não Convencionais) e outros alimentos e ervas. Estimulando seu consumo e tornando sua produção uma fonte de renda para comunidades e pequenos produtores.</p>
 
 ###
 
 <h2 align="center">Integrantes</h2>
 
 ###
-
-<img align="left" height="80" src="https://pps.whatsapp.net/v/t61.24694-24/328725920_2207318512786245_1976611167259730639_n.jpg?ccb=11-4&oh=01_AdSh_pB_s08AgnXEnAteyzdzPEE-lXRWVWdxnnI6ZKojyw&oe=6468BCA4"  />
+<a href="https://github.com/Yasmin-CCS" target="_blank">
+<img align="left" height="80" src="https://github.com/Yasmin-CCS.png"  /></a>
 
 ###
 
@@ -133,7 +133,7 @@
 
 ###
 
-<img align="left" height="80" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="left" height="80" src="https://github.com/beatrizangelita.png"  />
 
 ###
 
@@ -144,4 +144,5 @@
 <img align="left" height="80" src="https://media.licdn.com/dms/image/C4D03AQGBADMNIjcS8w/profile-displayphoto-shrink_800_800/0/1650401786288?e=1689206400&v=beta&t=KjXL_r_W9aMx8_tK1MdnseXo1AY4BVsywfdFej7x6Cc"  />
 
 ###
+
 
