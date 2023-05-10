@@ -1,5 +1,8 @@
 
-<h1 align="center">Planta Na Mesa</h1>
+
+<img align = "center" src="https://github.com/PI-PLANTA-NA-MESA/Planta-na-Mesa/assets/127205957/a0a4c7fe-c00b-43e5-a8ff-a333e0b60c64"/>
+
+
 
 ###
 
@@ -48,6 +51,7 @@
 <h2 align="center">Escopo do projeto</h2>
 
 ###
+<br>
 
 <h3 align="center">Tema:</h3>
 
@@ -60,6 +64,7 @@
 <p align="left"></p>
 
 ###
+<br>
 
 <h3 align="center">O Problema Social</h3>
 
@@ -72,6 +77,7 @@
 <p align="left"></p>
 
 ###
+<br>
 
 <h3 align="center">Quais são as causas, os impactos e as consequências do Problema Social foco do projeto na sociedade?</h3>
 
@@ -84,6 +90,7 @@
 <p align="left"></p>
 
 ###
+<br>
 
 <h3 align="center">Qual foi a solução escolhida?</h3>
 
@@ -96,6 +103,7 @@
 <p align="left"></p>
 
 ###
+<br>
 
 <h3 align="center">Qual o motivo da escolhemos um E-comerc software ?</h3>
 
@@ -108,6 +116,7 @@
 <p align="left"></p>
 
 ###
+<br>
 
 <h3 align="center">Como a aplicação irá contribuir na solução do Problema Social escolhido pelo grupo?</h3>
 
@@ -116,38 +125,41 @@
 <p align="center">Nosso e-commerce fará a ponte entre produtores de alimentos e os consumidores, expondo kits de PANCs(Plantas Alimentícias não Convencionais) e outros alimentos e ervas. Estimulando seu consumo e tornando sua produção uma fonte de renda para comunidades e pequenos produtores.</p>
 
 ###
+<br>
 
 <h2 align="center">Integrantes</h2>
 
 ###
-<a href="https://github.com/Yasmin-CCS" target="_blank">
-<img align="left" height="80" src="https://github.com/Yasmin-CCS.png"  /> </a>
 
-###
+<div align="center">
+<a  href="https://github.com/Yasmin-CCS" target="_blank">
+<img  height="80" src="https://github.com/Yasmin-CCS.png"  /> &nbsp </a>
+
+
 
 <a href="https://github.com/WilliamReisO" target="_blank">
-<img align="left" height="80" src="https://github.com/WilliamReisO.png"  /></a>
+<img  height="80" src="https://github.com/WilliamReisO.png"  /> &nbsp </a>
 
-###
+
 
 <a href="https://github.com/AzvalSG" target="_blank">
-<img align="left" height="80" src="https://github.com/AzvalSG.png"  /></a>
+<img  height="80" src="https://github.com/AzvalSG.png"  /> &nbsp </a>
 
-###
+
   
 <a href="https://github.com/MarianeAnjos" target="_blank">
-<img align="left" height="80" src="https://github.com/MarianeAnjos.png"  /></a>
+<img height="80" src="https://github.com/MarianeAnjos.png"  /> &nbsp </a>
 
-###
+
 
   <a href="https://github.com/Juliana-placido" target="_blank">
-<img align="left" height="80" src="https://github.com/Juliana-placido.png"  /></a>
+<img height="80" src="https://github.com/Juliana-placido.png"  /> &nbsp </a>
 
-###
+
 
 <a href="https://github.com/beatrizangelita" target="_blank">
-<img align="left" height="80" src="https://github.com/beatrizangelita.png"  /></a>
+<img height="80" src="https://github.com/beatrizangelita.png"  /> &nbsp </a>
 
-###
 
+</div>
 
