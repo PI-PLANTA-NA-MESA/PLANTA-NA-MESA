@@ -126,36 +126,41 @@
 
 <h2 align="center">Integrantes</h2>
 
+
 ###
 
 <div align="center">
+<p>
+Github dos participantes:  
+</p>
+  
 <a  href="https://github.com/Yasmin-CCS" target="_blank">
-<img  height="80" src="https://github.com/Yasmin-CCS.png"  /> &nbsp </a>
+<img  height="80" src="https://github.com/Yasmin-CCS.png" title="Github - Yasmin"  /> &nbsp </a>
 
 
 
 <a href="https://github.com/WilliamReisO" target="_blank">
-<img  height="80" src="https://github.com/WilliamReisO.png"  /> &nbsp </a>
+<img  height="80" src="https://github.com/WilliamReisO.png"  title="Github - William"/> &nbsp </a>
 
 
 
 <a href="https://github.com/AzvalSG" target="_blank">
-<img  height="80" src="https://github.com/AzvalSG.png"  /> &nbsp </a>
+<img  height="80" src="https://github.com/AzvalSG.png" title="Github - Giovanni" /> &nbsp </a>
 
 
   
 <a href="https://github.com/MarianeAnjos" target="_blank">
-<img height="80" src="https://github.com/MarianeAnjos.png"  /> &nbsp </a>
+<img height="80" src="https://github.com/MarianeAnjos.png"  title="Github - Mariane"/> &nbsp </a>
 
 
 
   <a href="https://github.com/Juliana-placido" target="_blank">
-<img height="80" src="https://github.com/Juliana-placido.png"  /> &nbsp </a>
+<img height="80" src="https://github.com/Juliana-placido.png" title="Github - Juliana" /> &nbsp </a>
 
 
 
 <a href="https://github.com/beatrizangelita" target="_blank">
-<img height="80" src="https://github.com/beatrizangelita.png"  /> &nbsp </a>
+<img height="80" src="https://github.com/beatrizangelita.png" title="Github - Beatriz" /> &nbsp </a>
 
 
 </div>
