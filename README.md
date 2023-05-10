@@ -121,27 +121,32 @@
 
 ###
 <a href="https://github.com/Yasmin-CCS" target="_blank">
-<img align="left" height="80" src="https://github.com/Yasmin-CCS.png"  /></a>
+<img align="left" height="80" src="https://github.com/Yasmin-CCS.png"  /> </a>
 
 ###
 
-<img align="left" height="80" src="https://pps.whatsapp.net/v/t61.24694-24/343061671_618448256504464_7437101379166411227_n.jpg?ccb=11-4&oh=01_AdShXksBtItM50boNaOuRwT6LgibX38TEmw-wn7-tKckAg&oe=6468C0D9"  />
+<a href="https://github.com/WilliamReisO" target="_blank">
+<img align="left" height="80" src="https://github.com/WilliamReisO.png"  /></a>
 
 ###
 
-<img align="left" height="80" src="https://avatars.githubusercontent.com/u/123428616?v=4"  />
+<a href="https://github.com/AzvalSG" target="_blank">
+<img align="left" height="80" src="https://github.com/AzvalSG.png"  /></a>
+
+###
+  
+<a href="https://github.com/MarianeAnjos" target="_blank">
+<img align="left" height="80" src="https://github.com/MarianeAnjos.png"  /></a>
 
 ###
 
-<img align="left" height="80" src="https://github.com/beatrizangelita.png"  />
+  <a href="https://github.com/Juliana-placido" target="_blank">
+<img align="left" height="80" src="https://github.com/Juliana-placido.png"  /></a>
 
 ###
 
-<img align="left" height="80" src="https://avatars.githubusercontent.com/u/100323487?v=4"  />
-
-###
-
-<img align="left" height="80" src="https://media.licdn.com/dms/image/C4D03AQGBADMNIjcS8w/profile-displayphoto-shrink_800_800/0/1650401786288?e=1689206400&v=beta&t=KjXL_r_W9aMx8_tK1MdnseXo1AY4BVsywfdFej7x6Cc"  />
+<a href="https://github.com/beatrizangelita" target="_blank">
+<img align="left" height="80" src="https://github.com/beatrizangelita.png"  /></a>
 
 ###
 
