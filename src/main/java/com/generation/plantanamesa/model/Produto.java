@@ -1,6 +1,7 @@
 package com.generation.plantanamesa.model;
 
 import java.math.BigDecimal;
+import java.time.LocalDate;
 import java.util.Date;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
@@ -25,7 +26,7 @@ public class Produto {
 	@Size(min = 1, max = 50, message = "O atributo Titulo deve conter no mínimo 05 e no máximo 50 caracteres")
 	private String nome;
 
-	private Date validade;
+	private LocalDate validade;
 
 	
 	@Size(min = 1, max = 2000, message = "O atributo descrição deve conter no mínimo 10 e no máximo 1000 caracteres")
@@ -72,11 +73,11 @@ public class Produto {
 		this.nome = nome;
 	}
 
-	public Date getValidade() {
+	public LocalDate getValidade() {
 		return validade;
 	}
 
-	public void setValidade(Date validade) {
+	public void setValidade(LocalDate validade) {
 		this.validade = validade;
 	}
 
